@@ -15,6 +15,7 @@ class seconedViewController: UIViewController {
     {
         super.viewDidLoad()
 
+        seconedTabLabel.text = "My Classes"
        
     }
     

@@ -16,6 +16,7 @@
 		4F0375B925D31AF400FA2EEF /* HackwichFourTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0375B825D31AF400FA2EEF /* HackwichFourTests.swift */; };
 		4F0375C425D31AF400FA2EEF /* HackwichFourUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0375C325D31AF400FA2EEF /* HackwichFourUITests.swift */; };
 		4F0375D525D3279F00FA2EEF /* seconedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0375D425D3279F00FA2EEF /* seconedViewController.swift */; };
+		4F0375DD25D32F1E00FA2EEF /* thirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0375DC25D32F1E00FA2EEF /* thirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		4F0375C325D31AF400FA2EEF /* HackwichFourUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichFourUITests.swift; sourceTree = "<group>"; };
 		4F0375C525D31AF400FA2EEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4F0375D425D3279F00FA2EEF /* seconedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seconedViewController.swift; sourceTree = "<group>"; };
+		4F0375DC25D32F1E00FA2EEF /* thirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				4F0375A525D31AF200FA2EEF /* ViewController.swift */,
 				4F0375D425D3279F00FA2EEF /* seconedViewController.swift */,
 				4F0375A725D31AF200FA2EEF /* Main.storyboard */,
+				4F0375DC25D32F1E00FA2EEF /* thirdViewController.swift */,
 				4F0375AA25D31AF400FA2EEF /* Assets.xcassets */,
 				4F0375AC25D31AF400FA2EEF /* LaunchScreen.storyboard */,
 				4F0375AF25D31AF400FA2EEF /* Info.plist */,
@@ -263,6 +266,7 @@
 			files = (
 				4F0375A625D31AF200FA2EEF /* ViewController.swift in Sources */,
 				4F0375A225D31AF200FA2EEF /* AppDelegate.swift in Sources */,
+				4F0375DD25D32F1E00FA2EEF /* thirdViewController.swift in Sources */,
 				4F0375D525D3279F00FA2EEF /* seconedViewController.swift in Sources */,
 				4F0375A425D31AF200FA2EEF /* SceneDelegate.swift in Sources */,
 			);
